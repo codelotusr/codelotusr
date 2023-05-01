@@ -1,5 +1,5 @@
 # 💫 About Me:
-<font size="3">Hey! My name's Deividas, sometimes I go by my aliases - [codelotusr](https://github.com/codelotusr) or just [Lotus](https://github.com/codelotusr)👋<br><br>I'm a Software Engineering student at Vilnius TECH university</font> 💻<br>
+<font size="8">Hey! My name's Deividas, sometimes I go by my aliases - [codelotusr](https://github.com/codelotusr) or just [Lotus](https://github.com/codelotusr)👋<br><br>I'm a Software Engineering student at Vilnius TECH university</font> 💻<br>
 
 
 # 💻 Tech Stack:
