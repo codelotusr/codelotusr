@@ -13,7 +13,20 @@
 ![](https://github-profile-trophy.vercel.app/?username=codelotusr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐍 My GitHub Contributions
-![Snake animation](https://github.com/codelotusr/codelotusr/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/codelotusr/codelotusr/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/codelotusr/codelotusr/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/codelotusr/codelotusr/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codelotusr&icon=0&color=6)](https://visitcount.itsvg.in)
