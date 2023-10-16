@@ -12,5 +12,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codelotusr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 🐍 My GitHub Contributions
+![Snake animation](https://github.com/codelotusr/codelotusr/blob/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=codelotusr&icon=0&color=6)](https://visitcount.itsvg.in)
