@@ -35,8 +35,21 @@
 ## ⏰ WakaTime Integration
 <!--START_SECTION:waka-->
 
-```txt
-No activity tracked
+```python
+From: 06 March 2022 - To: 12 July 2024
+
+Total Time: 151 hrs 40 mins
+
+C++              107 hrs 41 mins >>>>>>>>>>>>>>>>>>-------   70.83 %
+Go               17 hrs 6 mins   >>>----------------------   11.25 %
+PowerShell       14 hrs 34 mins  >>-----------------------   09.59 %
+Markdown         1 hr 39 mins    -------------------------   01.09 %
+Docker           1 hr 22 mins    -------------------------   00.91 %
+R                1 hr 22 mins    -------------------------   00.90 %
+Bash             1 hr 15 mins    -------------------------   00.83 %
+JSON             1 hr            -------------------------   00.66 %
+Text             51 mins         -------------------------   00.56 %
+C#               48 mins         -------------------------   00.53 %
 ```
 
 <!--END_SECTION:waka-->
