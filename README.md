@@ -31,3 +31,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codelotusr&icon=0&color=6)](https://visitcount.itsvg.in)
+
+## ⏰ WakaTime Integration
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
