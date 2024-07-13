@@ -34,7 +34,7 @@
 ## ⏰ WakaTime Integration
 <!--START_SECTION:waka-->
 
-```python
+```rust
 From: 06 March 2022 - To: 12 July 2024
 
 Total Time: 151 hrs 40 mins
