@@ -29,7 +29,6 @@
 </picture>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codelotusr&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ## ⏰ WakaTime Integration
 <!--START_SECTION:waka-->
@@ -52,3 +51,5 @@ Text             51 mins         -------------------------   00.56 %
 ```
 
 <!--END_SECTION:waka-->
+---
+[![](https://visitcount.itsvg.in/api?id=codelotusr&icon=0&color=6)](https://visitcount.itsvg.in)
