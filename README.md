@@ -34,18 +34,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 March 2022 - To: 05 August 2025
+From: 06 March 2022 - To: 06 August 2025
 
-Total Time: 413 hrs 1 min
+Total Time: 414 hrs 24 mins
 
-C++               107 hrs 58 mins >>>>>>>------------------   26.16 %
-Python            78 hrs 30 mins  >>>>>--------------------   19.02 %
-TypeScript        48 hrs 56 mins  >>>----------------------   11.86 %
-Go                35 hrs 53 mins  >>-----------------------   08.70 %
-Lua               33 hrs 19 mins  >>-----------------------   08.07 %
-PowerShell        14 hrs 56 mins  >------------------------   03.62 %
-HTML              10 hrs 37 mins  >------------------------   02.58 %
-Markdown          10 hrs 25 mins  >------------------------   02.53 %
+C++               107 hrs 58 mins >>>>>>>------------------   26.07 %
+Python            78 hrs 30 mins  >>>>>--------------------   18.96 %
+TypeScript        48 hrs 56 mins  >>>----------------------   11.82 %
+Go                36 hrs 49 mins  >>-----------------------   08.89 %
+Lua               33 hrs 41 mins  >>-----------------------   08.13 %
+PowerShell        14 hrs 56 mins  >------------------------   03.61 %
+HTML              10 hrs 37 mins  >------------------------   02.57 %
+Markdown          10 hrs 25 mins  >------------------------   02.52 %
 Bash              8 hrs 4 mins    -------------------------   01.95 %
 JavaScript        6 hrs 51 mins   -------------------------   01.66 %
 ```
