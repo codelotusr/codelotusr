@@ -1,5 +1,5 @@
 # 💫 About Me:
-<font size="8">Hey! My name's Deividas, sometimes I go by my aliases - [codelotusr](https://github.com/codelotusr) or just [Lotus](https://github.com/codelotusr)👋<br><br></font>
+<font size="8">`01110010 01100101 01100100 01100001 01100011 01110100 01100101 01100100`<br><br></font>
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
