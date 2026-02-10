@@ -1,17 +1,7 @@
-# 💫 About Me:
+# About Me:
 <font size="8">`01110010 01100101 01100100 01100001 01100011 01110100 01100101 01100100`<br><br></font>
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codelotusr&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codelotusr&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codelotusr&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codelotusr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐍 My GitHub Contributions
+## My GitHub Contributions
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -29,7 +19,7 @@
 
 ---
 
-## ⏰ WakaTime Integration
+## WakaTime Integration
 <!--START_SECTION:waka-->
 
 ```rust
