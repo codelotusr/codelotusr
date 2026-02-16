@@ -1,7 +1,7 @@
 # About Me:
 <font size="8">`01110010 01100101 01100100 01100001 01100011 01110100 01100101 01100100`<br><br></font>
 
-## My GitHub Contributions
+## My Contributions
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -11,11 +11,11 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/codelotusr/codelotusr/output/github-contribution-grid-snake.svg"
   />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/codelotusr/codelotusr/output/github-contribution-grid-snake.svg"
-  />
 </picture>
+
+![](https://github-readme-stats.vercel.app/api?username=codelotusr&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codelotusr&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codelotusr&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
